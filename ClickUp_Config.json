@@ -1,0 +1,32 @@
+{
+	"token" : "pk_48649102_5O4PQG64SMC24KUEX2BXU0HSHU5NJE2Z",
+    "month" : 12,
+    "year" : 2021,
+	"closed_tasks": true,
+	"folder": ["OCP Analytics","OCP Incentives"],
+	"list": "All",
+	"detailed_output_file":"ClickUP_data_pull.xlsx",
+	"detailed_output_file_flag":false,
+	"fields":[
+		{"Team": true}
+		,{"Space": true}
+		,{"Folder": true}
+		,{"List": true}
+		,{"Task ID": true}
+		,{"Task": true}
+		,{"Sub-Task": true}
+		,{"Tags": true}
+		,{"Priority": true}
+		,{"Status": true}
+		,{"Assignees": true} 
+		,{"Due date": true}
+		,{"Status modified date": true}
+	],
+	"folders_kva":[
+		{"folder name": "OCP Analytics",
+		"kva_nr":220005},
+		{"folder name": "OCP Incentives",
+		"kva_nr":220005}
+	]
+	
+}
